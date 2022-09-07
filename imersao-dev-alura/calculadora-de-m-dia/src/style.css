@@ -1,0 +1,41 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://cdn.awsli.com.br/300x300/618/618763/produto/14820641613d7e1d7f7.jpg');
+  background-color:#F8F8FF;
+  background-size: 80vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#00000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#00000;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+    
+}
+button{
+   border-radius: 5px;
+   background: #fffff;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
